@@ -100,16 +100,16 @@
 
     - Insira primeiro o ID da chave de acesso e depois a chave privada.
 
-3. Crie uma pasta para colocar os arquivos da sua implantação.
+3. Crie uma pasta para colocar os arquivos da sua implantação. (PowerShell)
 
     ```
-    mkdir terraform-aws-ec2
+    New-Item -ItemType Directory terraform-aws-ec2
     ```
 
-4. Crie um arquivo do terraform dentro da pasta que você criou.
+4. Crie um arquivo do terraform dentro da pasta que você criou. (PowerShell)
 
     ```
-    touch main.tf
+    New-Item -ItemType File main.tf
     ```
 
 - Abra no editor de textos (No caso, vou utilizar o VSCode)
