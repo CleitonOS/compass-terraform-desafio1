@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Instalando Terraform no Windows e criando o deploy de um instância EC2 na AWS</h1> 
-<p align="center"><i>Fazendo a instalação do terraform no Windows e criando o deploy de uma instancia EC t2.micro na AWS</i></p>
+<p align="center"><i>Fazendo a instalação do terraform no Windows e criando o deploy de uma instancia EC2 t2.micro na AWS</i></p>
 
 ## 📝 Tabela de conteúdos
 - [Fazendo a instalação do Terraform (Passo 1)](#step1)
